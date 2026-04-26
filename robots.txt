@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hanweb3.dev/sitemap.xml
+Sitemap: https://tadanghan898-bot.github.io/hanweb3dev.github.io/sitemap.xml
